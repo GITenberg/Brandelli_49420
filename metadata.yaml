@@ -1,4 +1,8 @@
 _repo: Brandelli_49420
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49420-h/images/cover.jpg
 creator:
   author:
     agent_name: Guerrini, Olindo
@@ -14,6 +18,8 @@ creator:
     - http://it.wikipedia.org/wiki/Olindo_Guerrini
     - http://en.wikipedia.org/wiki/Olindo_Guerrini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49420#Brandelli
 gutenberg_bookshelf: IT Narrativa varia
 gutenberg_issued: '2015-07-11'
 gutenberg_type: Text
